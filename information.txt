@@ -1,0 +1,135 @@
+POI number = 30
+sensing range = 10 m
+communication range= 50 m
+mode nnumber =350
+arar: 150 m x 150 m = 22.5 acres
+position of base staion = (1, 75)
+
+goal of the this simulation is to achieve the lifetime of at leat 4 hours   !!!!
+
+
+
+
+
+
+test_time=1
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=2
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=3
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=4
+POI used: 29/30
+min # that a POI is covered: 1
+
+test_time=5
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=6
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=7
+POI used: 29/30
+min # that a POI is covered: 1
+
+test_time=8
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=9
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=10
+POI used: 29/30
+min # that a POI is covered: 1
+
+test_time=11
+POI used: 29/30
+min # that a POI is covered: 2
+
+test_time=12
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=13
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=14
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=15
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=16
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=17
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=18
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=19
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=20
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=21
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=22
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=23
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=24
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=25
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=26
+POI used: 30/30
+min # that a POI is covered: 2
+
+test_time=27
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=28
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=29
+POI used: 30/30
+min # that a POI is covered: 1
+
+test_time=30
+POI used: 30/30
+min # that a POI is covered: 1
+
+>> 
